@@ -56,7 +56,7 @@ DreamForge is designed to showcase advanced web development skills and best prac
 
 ## Live Demo
 
-[Live Demo (Coming Soon)](https://live-demo-link.com)
+[View Live Demo](https://dream-forge.onrender.com)
 
 ---
 
@@ -70,6 +70,7 @@ DreamForge is designed to showcase advanced web development skills and best prac
 - **Responsive UI:** Built with TailwindCSS & Framer Motion
 - **RESTful API:** Modular Express backend
 - **Clean Codebase:** Easy to read, extend, and maintain
+- **Dark and Light Mode:** User preference support
 
 ---
 
